@@ -1,4 +1,3 @@
-
 # wap to create your biodataand use the input fcx
 '''
 name=input("Enter your name ")
