@@ -14,7 +14,7 @@ name[2]='alia'
 print(name[0:3])
 name.append('ajay')
 print(name)
-name.insert(0,'Shree Ram')
+name.insert(0,'Jai Shree Ram')
 print(name)
 
 num_list=[1,2,3,4,5,6,7]
